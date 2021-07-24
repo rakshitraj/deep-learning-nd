@@ -4,3 +4,8 @@
 # Datasets
 data/
 */data/
+
+## Models
+# PyTorch models
+*.pth
+
